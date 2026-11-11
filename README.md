@@ -42,6 +42,16 @@ for mission-specific operations.
 - `Launch/` - Mission launch configurations
 - `docs/` - Technical documentation
 
+
+## System Architecture
+
+The ASV system integrates ROS 2, MAVROS,
+computer vision, GPS navigation, and fuzzy logic
+control with a cloud-based monitoring interface.
+
+For a detailed explanation of the system architecture,
+see [System Architecture](docs/architecture.md).
+
 ## Development Status
 
 This repository contains selected source code
