@@ -36,12 +36,18 @@ autonomous control, and telemetry communication.
 
 See [System Architecture](architecture.md).
 
-## 4. Mission Documentation
+## 4. Mission Navigation Documentation
 
-The system supports two navigation configurations
-for different competition routes.
+The ASV system supports two different
+navigation configurations for competition routes.
 
-See [Mission & Navigation Strategy](mission-navigation.md).
+### Mission A
+
+![Mission A Navigation](mission-tracks-A.png)
+
+### Mission B
+
+![Mission B Navigation](mission-tracks-B.png)
 
 ## 5. Competition Documentation
 
