@@ -1,11 +1,16 @@
-# Autonomous Surface Vehicle (ASV) 2026
+
+# VARUNA — Autonomous Surface Vehicle 2026
+
+**NAUTIKAL BRAWIJAYA**
+
+An autonomous surface vehicle developed for the Kontes Kapal Indonesia (KKI) 2026, integrating robotics, computer vision, autonomous navigation, embedded systems, and real-time monitoring.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Platform](https://img.shields.io/badge/Platform-Jetson_Orin_Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
 
 
 An autonomous surface vehicle development project integrating robotics, computer vision, autonomous navigation, embedded systems, and real-time monitoring.
@@ -153,6 +158,16 @@ ASV-Autonomous-System2026/
 │
 └── README.md
 ```
+
+## Project Identity
+
+| Information | Details |
+|---|---|
+| Vessel Name | VARUNA |
+| Team | NAUTIKAL BRAWIJAYA |
+| Competition | Kontes Kapal Indonesia (KKI) 2026 |
+| System | Autonomous Surface Vehicle |
+
 
 ## 10. Development Status
 
