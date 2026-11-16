@@ -16,7 +16,7 @@ The web-based monitoring dashboard provides
 an interface for observing vessel information,
 camera feeds, navigation data, and mission progress.
 
-![ASV Monitoring Dashboard](../Screenshots%20Website%20ASV%202026/dashboard.png)
+![ASV Monitoring Dashboard](dashboard.png)
 
 ### Dashboard Features
 
