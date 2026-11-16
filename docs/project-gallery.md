@@ -35,6 +35,7 @@ Pixhawk, GPS navigation, computer vision,
 autonomous control, and telemetry communication.
 
 See [System Architecture](architecture.md).
+![System Eletric](sistem-elektrik.png)
 
 ## 4. Mission Navigation Documentation
 
